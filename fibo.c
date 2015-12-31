@@ -6,7 +6,8 @@
  *             "-DTEST -DLOWLEVEL -O2".
  *           To compile the algorithmic version use
  *             "-DTEST -DALGORITHMIC -O2".
- * Author  : Nikolaos Kavvadias (C) 2009
+ * Author  : Nikolaos Kavvadias (C) 2009, 2010, 2011, 2012, 2013, 2014, 2015, 
+ *                                  2016
  * Date    : 17-Sep-2009
  * Revision: 0.2.0 (17/09/09)
  *           Initial version.

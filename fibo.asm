@@ -2,7 +2,8 @@
 // Filename: fibo.nac
 // Purpose : N-address code (NAC) implementation for the iterative version of 
 //           Fibonacci series computation.
-// Author  : Nikolaos Kavvadias (C) 2009, 2010
+// Author  : Nikolaos Kavvadias (C) 2009, 2010, 2011, 2012, 2013, 2014, 2015, 
+//                                  2016
 // Date    : 17-Sep-2009
 // Revision: 0.2.0 (17/09/09)
 //           Initial version.

@@ -10,8 +10,9 @@
 | **Title**         | toy (Assembler and simulator for the Princeton TOY       |
 |                   | machine)                                                 |
 +-------------------+----------------------------------------------------------+
-| **Author**        | Nikolaos Kavvadias 2010, 2011, 2012, 2013, 2014          |
-|                   |                                                          |
+| **Author**        | Nikolaos Kavvadias 2010, 2011, 2012, 2013, 2014, 2015,   |
+|                   | 2016                                                     |
++-------------------+----------------------------------------------------------+
 |                   | ``toy.c`` written by Christopher W. Fraser.              |
 +-------------------+----------------------------------------------------------+
 | **Contact**       | nikos@nkavvadias.com                                     |
@@ -136,15 +137,3 @@ the TOY simulator console will then return the number of ones in that number.
 
 - Standard UNIX-based tools: ``make``, ``gcc``.
 
-
-5. Contact
-==========
-
-You may contact me at:
-
-|  Nikolaos Kavvadias <nikos@nkavvadias.com>
-|  Independent Consultant
-|  http://www.nkavvadias.com
-|  Kornarou 12 Rd,
-|  35100 Lamia, Fthiotis
-|  Greece

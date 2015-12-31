@@ -2,7 +2,8 @@
 // Filename: popcount.nac
 // Purpose : N-address code (NAC) implementation for the "ones' count" (also 
 //           known as population count) algorithm.
-// Author  : Nikolaos Kavvadias (C) 2009, 2010
+// Author  : Nikolaos Kavvadias (C) 2009, 2010, 2011, 2012, 2013, 2014, 2015, 
+//                                  2016
 // Date    : 13-Aug-2009
 // Revision: 0.1.0 (13/08/09)
 //           Initial version.
