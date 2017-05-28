@@ -13,7 +13,7 @@ extern FILE *yyin;
 
 int main(int argc, char *argv[])
 {
-  char infilename[32];
+  char *infilename = NULL;
 
   if (argc < 2) 
   {
@@ -22,6 +22,7 @@ int main(int argc, char *argv[])
   }
   
   /* Get input file name (without asm extension) */
+  infilename = malloc((strlen(argv[1])+1) * sizeof(char));
   strcpy(infilename, argv[1]);
   
   /* infile is passed as input to the yacc-generated parser */
@@ -40,6 +41,9 @@ int main(int argc, char *argv[])
   
   /* Close input file (assembly code) */
   fclose(yyin);
+
+  /* Free memory */
+  free(infilename);
   
   return 0;
 }

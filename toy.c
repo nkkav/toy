@@ -149,5 +149,6 @@ int main(int argc, char *argv[]) {
    printf("Core dump after running.\n");
    printf("------------------------\n");
    dump();
+   fclose(toyfile);
    return 0;
 }
